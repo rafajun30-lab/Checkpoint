@@ -18,7 +18,7 @@ from app.routers import estacoes, leituras
 
 # Cria as tabelas no banco de dados, caso ainda não existam.
 # (Em um projeto de produção, isso seria feito via ferramenta de migração,
-# como Alembic; aqui usamos create_all para simplificar a correção do CP3.)
+# como Alembic; aqui usamos create_all para simplificar a correção do CP1.)
 Base.metadata.create_all(bind=engine)
 
 app = FastAPI(

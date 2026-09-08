@@ -1,4 +1,4 @@
-# Sistema IoT Meteorológico — CP1
+# Sistema IoT Meteorológico — CP3
 
 API RESTful para **coleta e persistência de dados de sensores de clima**
 (temperatura, umidade, pressão atmosférica e vento), com cadastro de

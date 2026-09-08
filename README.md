@@ -1,4 +1,4 @@
-# Sistema IoT Meteorológico — CP1
+# Sistema IoT Meteorológico — CP3
 
 API RESTful para **coleta e persistência de dados de sensores de clima**
 (temperatura, umidade, pressão atmosférica e vento), com cadastro de
@@ -21,7 +21,7 @@ quadro no **Trello/Notion** (link abaixo), com as tarefas divididas em:
 
 `Backlog → A Fazer → Em Progresso → Em Revisão → Concluído`
 
-O trabalho foi dividido em uma única Sprint (referente à CP1), com reuniões
+O trabalho foi dividido em uma única Sprint (referente à CP3), com reuniões
 rápidas (daily) entre os integrantes para alinhar o progresso da modelagem
 do banco, das regras de negócio e dos endpoints.
 
